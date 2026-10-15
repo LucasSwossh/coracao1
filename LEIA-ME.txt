@@ -1,0 +1,20 @@
+CORAÇÃO SIMPLES — VERCEL
+
+1. Extraia este ZIP.
+2. Crie um NOVO repositório no GitHub para este projeto.
+3. Envie TODOS os arquivos extraídos diretamente à raiz do repositório.
+4. index.html, background.mp3 e vercel.json devem ficar lado a lado.
+5. Confirme o envio em Commit changes na branch main.
+6. Na Vercel, importe esse repositório como um novo projeto.
+7. Framework: Other. Root Directory: ./
+8. Não configure comandos de instalação ou build. O vercel.json já configura o site.
+9. Clique Deploy e aguarde Ready em Production.
+
+ÁUDIO
+O arquivo background.mp3 já está incluído e o site usa esse nome exato.
+Não renomeie nem coloque em uma subpasta. Não precisa alterar o código.
+O navegador pode bloquear áudio automático. Nesse caso, toque ou clique na tela.
+A trilha toca em loop, sem player. A animação também se repete automaticamente.
+
+ABRIR NO COMPUTADOR
+Extraia todos os arquivos juntos e abra index.html no navegador.
